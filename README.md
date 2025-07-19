@@ -132,9 +132,9 @@ force-app/
 
 1. Clone the repo in VS Code
 2. Authenticate to your Salesforce org
-3. Use **Org Browser** or `SFDX: Deploy Source to Org`
-4. Use **App Launcher** to open "HandsMen Threads"
-5. Place test orders and simulate stock drop to see automation
+3. Use **Org Browser: Focus on Metaddata View** or `SFDX: Deploy Source to Org`
+5. Use **App Launcher** to open "HandsMen Threads"
+6. Place test orders and simulate stock drop to see automation
 
 ---
 
